@@ -1,0 +1,1972 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICS AllDay//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marketing Content Days
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:c1fdf0e0-e56a-4eab-9dce-235caa6763ca@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250105
+SUMMARY:World Braille Day
+LOCATION:Online
+DESCRIPTION:Recognizing importance of braille for visually impaired
+URL:https://www.un.org/en/observances/braille-day
+END:VEVENT
+BEGIN:VEVENT
+UID:2c2202fa-367b-4f73-9a8f-15c75614c429@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:International Day of Education
+LOCATION:Online
+DESCRIPTION:Education as a fundamental human right
+URL:https://www.un.org/en/observances/education-day
+END:VEVENT
+BEGIN:VEVENT
+UID:fb788b53-f6bf-4e40-855f-0ea1cb527562@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
+SUMMARY:International Holocaust Remembrance Day
+LOCATION:Online
+DESCRIPTION:Remembrance of Holocaust victims
+URL:https://www.un.org/en/holocaustremembrance
+END:VEVENT
+BEGIN:VEVENT
+UID:018ad008-2330-478f-ac6f-729934f47760@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250205
+SUMMARY:World Cancer Day
+LOCATION:Online
+DESCRIPTION:Cancer prevention and treatment awareness
+URL:https://www.worldcancerday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:651ec08f-6425-4000-9d46-ead61246d807@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250207
+SUMMARY:Zero Tolerance for FGM Day
+LOCATION:Online
+DESCRIPTION:Action against female genital mutilation
+URL:https://www.un.org/en/observances/female-genital-mutilation-zero-tolerance-day
+END:VEVENT
+BEGIN:VEVENT
+UID:a2efad80-7f86-47ca-b28c-d80b28d3644a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:World Pulses Day
+LOCATION:Online
+DESCRIPTION:Pulses for nutrition and sustainability
+URL:https://www.un.org/en/observances/world-pulses-day
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6fbcde-4bbe-4a32-b061-2e7ea37cadb6@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250212
+SUMMARY:Women and Girls in Science Day
+LOCATION:Online
+DESCRIPTION:Gender equality in science
+URL:https://www.un.org/en/observances/women-and-girls-in-science-day
+END:VEVENT
+BEGIN:VEVENT
+UID:abb42896-c206-4c73-929b-7988c78f1fc9@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250214
+SUMMARY:World Radio Day
+LOCATION:Online
+DESCRIPTION:Celebration of radio as a medium
+URL:https://www.un.org/en/observances/radio-day
+END:VEVENT
+BEGIN:VEVENT
+UID:88975ed1-5eac-4504-99ab-7f837badeadf@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+SUMMARY:Valentine's Day
+LOCATION:Online
+DESCRIPTION:Major gift and e-commerce sales day
+URL:https://example.com/valentine
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3f0de0-c760-407a-8371-169ad712aa2c@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250220
+DTEND;VALUE=DATE:20250221
+SUMMARY:World Day of Social Justice
+LOCATION:Online
+DESCRIPTION:Upholding social justice for all
+URL:https://www.un.org/en/observances/social-justice-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6846eada-4cf0-488e-adf5-6bf616dfa913@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:International Mother Language Day
+LOCATION:Online
+DESCRIPTION:Preserving linguistic diversity
+URL:https://www.un.org/en/observances/mother-language-day
+END:VEVENT
+BEGIN:VEVENT
+UID:e967166f-b1cd-4383-af9a-1794df032e51@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250304
+SUMMARY:World Wildlife Day
+LOCATION:Online
+DESCRIPTION:Protecting wild fauna and flora
+URL:https://www.un.org/en/observances/world-wildlife-day
+END:VEVENT
+BEGIN:VEVENT
+UID:a2d9b532-3e02-405b-bdc7-195958a6b6fa@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:International Women's Day
+LOCATION:Online
+DESCRIPTION:Gender equality and women's rights
+URL:https://www.un.org/en/observances/international-womens-day
+END:VEVENT
+BEGIN:VEVENT
+UID:7862625f-6c1a-410b-b078-99a612069bf6@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:St. Patrick's Day
+LOCATION:Online
+DESCRIPTION:Campaigns around Irish heritage
+URL:https://example.com/stpatrick
+END:VEVENT
+BEGIN:VEVENT
+UID:baf1406f-e799-422c-b3de-b75c3cbc00ad@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250321
+SUMMARY:International Day of Happiness
+LOCATION:Online
+DESCRIPTION:Promoting happiness and well-being
+URL:https://www.un.org/en/observances/happiness-day
+END:VEVENT
+BEGIN:VEVENT
+UID:077c0d1d-dd9f-4400-9c04-10f874055551@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+SUMMARY:International Day for Elimination of Racial Discrimination
+LOCATION:Online
+DESCRIPTION:Fighting racial discrimination
+URL:https://www.un.org/en/observances/end-racism-day
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a1185e-6869-4ca3-9caa-37393a0472df@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+SUMMARY:International Day of Forests
+LOCATION:Online
+DESCRIPTION:Importance of forests
+URL:https://www.un.org/en/observances/forests-day
+END:VEVENT
+BEGIN:VEVENT
+UID:c83dd969-b1e3-4684-8c52-1adc8126c323@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+SUMMARY:World Poetry Day
+LOCATION:Online
+DESCRIPTION:Poetry and creativity
+URL:https://www.un.org/en/observances/world-poetry-day
+END:VEVENT
+BEGIN:VEVENT
+UID:679ed7ce-4b54-4a77-bdba-8ed99556eeeb@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+SUMMARY:World Water Day
+LOCATION:Online
+DESCRIPTION:Sustainable use of water
+URL:https://www.un.org/en/observances/world-water-day
+END:VEVENT
+BEGIN:VEVENT
+UID:40fb9f44-2f0d-4b16-8249-8c4bc8647690@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250323
+DTEND;VALUE=DATE:20250324
+SUMMARY:World Meteorological Day
+LOCATION:Online
+DESCRIPTION:Weather\, climate and water
+URL:https://public.wmo.int/en/bulletin/world-meteorological-day
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5f1779-8eda-4f5f-83c8-b9eb8ee92e94@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250325
+SUMMARY:World Tuberculosis Day
+LOCATION:Online
+DESCRIPTION:TB prevention and treatment
+URL:https://www.who.int/campaigns/world-tb-day
+END:VEVENT
+BEGIN:VEVENT
+UID:78cf6666-911b-481b-9f37-3f60cfe393d1@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250408
+SUMMARY:World Health Day
+LOCATION:Online
+DESCRIPTION:Global health awareness
+URL:https://www.un.org/en/observances/world-health-day
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b979f7-1773-432f-b505-f1c1c8fe0705@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250422
+DTEND;VALUE=DATE:20250423
+SUMMARY:International Mother Earth Day
+LOCATION:Online
+DESCRIPTION:Recognizing Earth as our shared home
+URL:https://www.un.org/en/observances/earth-day
+END:VEVENT
+BEGIN:VEVENT
+UID:d2034712-b4df-4685-b739-16e4a10cb6e4@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250422
+DTEND;VALUE=DATE:20250423
+SUMMARY:Earth Day
+LOCATION:Online
+DESCRIPTION:Environmental protection and climate action
+URL:https://www.earthday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:40564eb1-d3e2-40bc-8ae4-0640323ebbe0@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250423
+DTEND;VALUE=DATE:20250424
+SUMMARY:World Book and Copyright Day
+LOCATION:Online
+DESCRIPTION:Reading and author rights
+URL:https://www.un.org/en/observances/world-book-and-copyright-day
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ec75bd-eea3-408d-9af5-d4c86b7ed574@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:World Malaria Day
+LOCATION:Online
+DESCRIPTION:Malaria prevention awareness
+URL:https://www.who.int/campaigns/world-malaria-day
+END:VEVENT
+BEGIN:VEVENT
+UID:83148910-0a15-4ea7-ae42-70855c187037@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:International Jazz Day
+LOCATION:Online
+DESCRIPTION:Jazz music and culture
+URL:https://jazzday.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:78b1a3ca-5098-425e-872e-af0f9e80c2b1@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:International Workers' Day
+LOCATION:Online
+DESCRIPTION:Workers' rights and labour awareness
+URL:https://en.wikipedia.org/wiki/International_Workers%27_Day
+END:VEVENT
+BEGIN:VEVENT
+UID:ae35bd66-3524-41fb-b8b7-30e8c57c8b45@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:World Press Freedom Day
+LOCATION:Online
+DESCRIPTION:Free and independent media
+URL:https://www.un.org/en/observances/press-freedom-day
+END:VEVENT
+BEGIN:VEVENT
+UID:f2daa82f-7582-475f-b4a7-eb62f56e7599@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:International Day of Families
+LOCATION:Online
+DESCRIPTION:Importance of families
+URL:https://www.un.org/en/observances/international-day-of-families
+END:VEVENT
+BEGIN:VEVENT
+UID:fca88037-c59a-4f49-9da0-ae82efd48904@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:International Day of Light
+LOCATION:Online
+DESCRIPTION:Role of light in science and culture
+URL:https://www.lightday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:2a59175d-5a40-4a9f-9c3d-5213ba8c7a4a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:World Telecommunication and Information Society Day
+LOCATION:Online
+DESCRIPTION:Digital technologies and connectivity
+URL:https://www.itu.int/en/wtisd
+END:VEVENT
+BEGIN:VEVENT
+UID:e326fe85-0e1b-41f9-aa21-d35d923752e2@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250523
+SUMMARY:International Day for Biological Diversity
+LOCATION:Online
+DESCRIPTION:Biodiversity awareness
+URL:https://www.cbd.int/idb/
+END:VEVENT
+BEGIN:VEVENT
+UID:d74c2f04-12f9-440c-88ad-1b458265476a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250601
+SUMMARY:World No Tobacco Day
+LOCATION:Online
+DESCRIPTION:Health risks of tobacco use
+URL:https://www.who.int/campaigns/world-no-tobacco-day
+END:VEVENT
+BEGIN:VEVENT
+UID:645ae55e-ca26-47b4-8b8a-5f487ac00a1c@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+SUMMARY:World Environment Day
+LOCATION:Online
+DESCRIPTION:Protecting the environment
+URL:https://www.un.org/en/observances/environment-day
+END:VEVENT
+BEGIN:VEVENT
+UID:1c55a60c-15c5-4bf3-b96b-b13c3cfbf883@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250609
+SUMMARY:World Oceans Day
+LOCATION:Online
+DESCRIPTION:Ocean ecosystems conservation
+URL:https://www.un.org/en/observances/oceans-day
+END:VEVENT
+BEGIN:VEVENT
+UID:babcc29f-e019-4f18-8af1-92e5a8026a0e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250612
+DTEND;VALUE=DATE:20250613
+SUMMARY:World Day Against Child Labour
+LOCATION:Online
+DESCRIPTION:Ending child labour
+URL:https://www.ilo.org/global/topics/child-labour/
+END:VEVENT
+BEGIN:VEVENT
+UID:0919181f-729c-4bed-8015-eab89bb058bc@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250615
+SUMMARY:World Blood Donor Day
+LOCATION:Online
+DESCRIPTION:Voluntary blood donations
+URL:https://www.who.int/campaigns/world-blood-donor-day
+END:VEVENT
+BEGIN:VEVENT
+UID:0726507f-0a42-4716-abaa-43b27bde3726@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250618
+SUMMARY:World Day to Combat Desertification and Drought
+LOCATION:Online
+DESCRIPTION:Desertification issues awareness
+URL:https://www.un.org/en/observances/desertification-day
+END:VEVENT
+BEGIN:VEVENT
+UID:18af54d2-035a-4055-b941-ec20e9c5f560@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:World Refugee Day
+LOCATION:Online
+DESCRIPTION:Solidarity with refugees
+URL:https://www.un.org/en/observances/refugee-day
+END:VEVENT
+BEGIN:VEVENT
+UID:02ee3ca3-aab0-4d53-a8c9-acd488da36e4@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:International Day of Yoga
+LOCATION:Online
+DESCRIPTION:Health and mindfulness
+URL:https://www.un.org/en/observances/yoga-day
+END:VEVENT
+BEGIN:VEVENT
+UID:f613842c-35ae-44af-8806-e9dc85d85fea@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:World Population Day
+LOCATION:Online
+DESCRIPTION:Global population issues
+URL:https://www.un.org/en/observances/world-population-day
+END:VEVENT
+BEGIN:VEVENT
+UID:3ad2008f-3634-4432-bc0e-c5bf0d8ebc9b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250719
+SUMMARY:Nelson Mandela International Day
+LOCATION:Online
+DESCRIPTION:Honoring Nelson Mandela's legacy
+URL:https://www.un.org/en/observances/mandela-day
+END:VEVENT
+BEGIN:VEVENT
+UID:f8d01b6d-292b-4608-bd39-989ab203562b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250729
+SUMMARY:World Hepatitis Day
+LOCATION:Online
+DESCRIPTION:Hepatitis prevention
+URL:https://www.un.org/en/observances/hepatitis-day
+END:VEVENT
+BEGIN:VEVENT
+UID:44ef7de7-5bf6-47a5-b3f8-27d52313ed15@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250730
+DTEND;VALUE=DATE:20250731
+SUMMARY:International Day of Friendship
+LOCATION:Online
+DESCRIPTION:Friendship among peoples
+URL:https://www.un.org/en/observances/friendship-day
+END:VEVENT
+BEGIN:VEVENT
+UID:9c9f90ed-2e8b-40ad-8a2c-cc25e760fcec@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250810
+SUMMARY:International Day of the World's Indigenous Peoples
+LOCATION:Online
+DESCRIPTION:Rights of indigenous peoples
+URL:https://www.un.org/en/observances/indigenous-day
+END:VEVENT
+BEGIN:VEVENT
+UID:2e8152f6-c61d-484f-8616-b0c155fe74f7@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+SUMMARY:International Youth Day
+LOCATION:Online
+DESCRIPTION:Empowering youth worldwide
+URL:https://www.un.org/en/observances/youth-day
+END:VEVENT
+BEGIN:VEVENT
+UID:df238521-02ce-493e-b2c1-b4997bda7b32@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+SUMMARY:World Humanitarian Day
+LOCATION:Online
+DESCRIPTION:Recognizing humanitarian workers
+URL:https://www.un.org/en/observances/humanitarian-day
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d22348-4cd6-4953-911c-8e0f15d508a8@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:Remembrance of the Slave Trade and its Abolition
+LOCATION:Online
+DESCRIPTION:Remembering slave trade history
+URL:https://en.unesco.org/commemorations/slavetraderemembranceday
+END:VEVENT
+BEGIN:VEVENT
+UID:2685c5db-cb39-49db-a56f-c6378cbc1702@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250909
+SUMMARY:International Literacy Day
+LOCATION:Online
+DESCRIPTION:Promoting literacy
+URL:https://www.un.org/en/observances/literacy-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae2e489-78cb-46d2-932b-3cc568689837@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:International Day of Democracy
+LOCATION:Online
+DESCRIPTION:Democratic values
+URL:https://www.un.org/en/observances/democracy-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6349e2fb-1342-4b19-b901-35749da4dc1f@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250921
+DTEND;VALUE=DATE:20250922
+SUMMARY:International Day of Peace
+LOCATION:Online
+DESCRIPTION:World peace and non-violence
+URL:https://www.un.org/en/observances/international-day-of-peace
+END:VEVENT
+BEGIN:VEVENT
+UID:a35a2439-ae69-4399-b958-32d09217cbdc@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250924
+SUMMARY:International Day of Sign Languages
+LOCATION:Online
+DESCRIPTION:Awareness of sign languages
+URL:https://www.un.org/en/observances/sign-languages-day
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ffab0d-cc75-4cba-83c1-3a68845cdaa6@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:World Tourism Day
+LOCATION:Online
+DESCRIPTION:Tourism and cultural exchange
+URL:https://www.unwto.org/world-tourism-day
+END:VEVENT
+BEGIN:VEVENT
+UID:e810564c-8dd6-41f7-b61e-3b23a57aa2eb@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251001
+SUMMARY:International Translation Day
+LOCATION:Online
+DESCRIPTION:Translation and language diversity
+URL:https://www.un.org/en/observances/international-translation-day
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca77e34-07db-440f-80b4-cda098929d07@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:International Day of Older Persons
+LOCATION:Online
+DESCRIPTION:Issues affecting older persons
+URL:https://www.un.org/en/observances/older-persons-day
+END:VEVENT
+BEGIN:VEVENT
+UID:1ab1c713-716a-4575-acd3-99bb00db6884@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251005
+DTEND;VALUE=DATE:20251006
+SUMMARY:World Teachers' Day
+LOCATION:Online
+DESCRIPTION:Honoring teachers
+URL:https://www.un.org/en/observances/world-teachers-day
+END:VEVENT
+BEGIN:VEVENT
+UID:c2fd698e-21ef-4378-9628-4d868c2428b1@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:World Mental Health Day
+LOCATION:Online
+DESCRIPTION:Mental health awareness
+URL:https://www.un.org/en/observances/world-mental-health-day
+END:VEVENT
+BEGIN:VEVENT
+UID:0ca5e6a1-ed32-43a8-9528-eb2ebcd1ce4e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:International Day of the Girl Child
+LOCATION:Online
+DESCRIPTION:Empowering girls worldwide
+URL:https://www.un.org/en/observances/girl-child-day
+END:VEVENT
+BEGIN:VEVENT
+UID:fbce8279-f7c0-4c71-ba13-906217fe315a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251014
+SUMMARY:International Day for Disaster Risk Reduction
+LOCATION:Online
+DESCRIPTION:Reducing disaster risk
+URL:https://www.un.org/en/observances/disaster-reduction-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6fcc7b73-8ac0-4ed4-ab97-45eec96e92d8@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251017
+SUMMARY:World Food Day
+LOCATION:Online
+DESCRIPTION:Eradicating hunger
+URL:https://www.un.org/en/observances/world-food-day
+END:VEVENT
+BEGIN:VEVENT
+UID:7acb65a2-bd35-49ab-9375-442a79162c21@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:International Day for the Eradication of Poverty
+LOCATION:Online
+DESCRIPTION:Action against poverty
+URL:https://www.un.org/en/observances/poverty-eradication-day
+END:VEVENT
+BEGIN:VEVENT
+UID:892b42a2-70d9-445f-a9e2-f0ea8ace2fec@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+SUMMARY:United Nations Day
+LOCATION:Online
+DESCRIPTION:Commemorating UN founding
+URL:https://www.un.org/en/observances/un-day
+END:VEVENT
+BEGIN:VEVENT
+UID:0237538b-094c-4e3f-9e15-f5ce014bf32b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+SUMMARY:World Development Information Day
+LOCATION:Online
+DESCRIPTION:Development issues awareness
+URL:https://www.un.org/en/observances/development-information-day
+END:VEVENT
+BEGIN:VEVENT
+UID:cbbcbaee-7c27-440c-8f53-61e4b79d11b2@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:World Kindness Day
+LOCATION:Online
+DESCRIPTION:Promoting kindness and empathy
+URL:https://inspirekindness.com/world-kindness-day
+END:VEVENT
+BEGIN:VEVENT
+UID:8b33129a-2752-4289-a5eb-4345ebe10c57@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251117
+SUMMARY:International Day for Tolerance
+LOCATION:Online
+DESCRIPTION:Promoting tolerance
+URL:https://www.un.org/en/observances/tolerance-day
+END:VEVENT
+BEGIN:VEVENT
+UID:93cef674-7968-470f-a6cc-b3185eb84653@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251126
+SUMMARY:International Day for Elimination of Violence Against Women
+LOCATION:Online
+DESCRIPTION:Action against violence towards women
+URL:https://www.un.org/en/observances/ending-violence-against-women-day
+END:VEVENT
+BEGIN:VEVENT
+UID:07cb72f6-756f-4b53-b321-36d885e31241@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:World AIDS Day
+LOCATION:Online
+DESCRIPTION:Global HIV/AIDS awareness
+URL:https://www.un.org/en/observances/world-aids-day
+END:VEVENT
+BEGIN:VEVENT
+UID:ae2d0a7d-df59-44f4-b9d5-9a78e8d8d3de@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251203
+DTEND;VALUE=DATE:20251204
+SUMMARY:International Day of Persons with Disabilities
+LOCATION:Online
+DESCRIPTION:Rights of disabled persons
+URL:https://www.un.org/en/observances/day-of-persons-with-disabilities
+END:VEVENT
+BEGIN:VEVENT
+UID:1461ec9d-5118-4e53-879a-1aa9f381d3f5@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:International Volunteer Day
+LOCATION:Online
+DESCRIPTION:Promoting volunteerism
+URL:https://www.un.org/en/observances/volunteer-day
+END:VEVENT
+BEGIN:VEVENT
+UID:c8afcc72-c8fc-4ebc-98b0-e6d5a5e873cd@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:Human Rights Day
+LOCATION:Online
+DESCRIPTION:Fundamental human rights
+URL:https://www.un.org/en/observances/human-rights-day
+END:VEVENT
+BEGIN:VEVENT
+UID:da3c54c5-7aa2-49fe-929f-966d51442902@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251212
+SUMMARY:International Mountain Day
+LOCATION:Online
+DESCRIPTION:Mountain ecosystems awareness
+URL:https://www.un.org/en/observances/mountain-day
+END:VEVENT
+BEGIN:VEVENT
+UID:cff79509-6a37-4700-ba9c-3216766d9328@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251219
+SUMMARY:International Migrants Day
+LOCATION:Online
+DESCRIPTION:Awareness of migrant issues
+URL:https://www.un.org/en/observances/migrants-day
+END:VEVENT
+BEGIN:VEVENT
+UID:7180d9ff-f59e-4199-8af9-a96784af3df9@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250511
+DTEND;VALUE=DATE:20250512
+SUMMARY:Mother's Day
+LOCATION:Online
+DESCRIPTION:Global gifting campaigns for mothers
+URL:https://example.com/mothersday
+END:VEVENT
+BEGIN:VEVENT
+UID:172bce22-c39c-4e44-8638-10aed9797409@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250615
+DTEND;VALUE=DATE:20250616
+SUMMARY:Father's Day
+LOCATION:Online
+DESCRIPTION:Gifting campaigns for fathers
+URL:https://example.com/fathersday
+END:VEVENT
+BEGIN:VEVENT
+UID:c04a8f36-8e52-4fe5-80dc-84de8a0483f4@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251007
+SUMMARY:World Habitat Day
+LOCATION:Online
+DESCRIPTION:Sustainable human settlements
+URL:https://www.un.org/en/observances/habitat-day
+END:VEVENT
+BEGIN:VEVENT
+UID:4ea3f3f4-3a72-44b6-8731-17c6b0c1654b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:World Philosophy Day
+LOCATION:Online
+DESCRIPTION:Promoting philosophy (UNESCO)
+URL:https://en.unesco.org/commemorations/philosophyday
+END:VEVENT
+BEGIN:VEVENT
+UID:0993a0f4-2836-477b-9cac-f737f3a4289e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:Black Friday
+LOCATION:Online
+DESCRIPTION:The biggest global shopping event
+URL:https://example.com/blackfriday
+END:VEVENT
+BEGIN:VEVENT
+UID:678221ec-2340-482e-88aa-b91a242c5dd4@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:Cyber Monday
+LOCATION:Online
+DESCRIPTION:Online-only retail promotions
+URL:https://example.com/cybermonday
+END:VEVENT
+BEGIN:VEVENT
+UID:0d799e94-3d37-4956-958b-7d735e7acb04@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:Giving Tuesday
+LOCATION:Online
+DESCRIPTION:Tuesday after US Thanksgiving (philanthropy campaigns)
+URL:https://www.givingtuesday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:573373af-7eda-4eed-a96f-44a101a2e700@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250104
+SUMMARY:New Year Sales
+LOCATION:Online
+DESCRIPTION:Global New Year promotions and clearance sales
+URL:https://example.com/newyear
+END:VEVENT
+BEGIN:VEVENT
+UID:bfd6253f-e837-4b2d-96f6-4b891e610b32@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250206
+SUMMARY:Chinese New Year Sales
+LOCATION:Online
+DESCRIPTION:Huge retail and e-commerce campaigns in Asia with global adopti
+ on
+URL:https://example.com/cny
+END:VEVENT
+BEGIN:VEVENT
+UID:6c6d1c58-6fb8-481a-8438-ac64d1ac3ea0@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250402
+SUMMARY:Ramadan/Eid al-Fitr Sales
+LOCATION:Online
+DESCRIPTION:Shopping events across Muslim-majority countries
+URL:https://example.com/eid
+END:VEVENT
+BEGIN:VEVENT
+UID:52da9790-a37b-4e81-8716-718010673be8@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250422
+SUMMARY:Easter Weekend Sales
+LOCATION:Online
+DESCRIPTION:Seasonal retail promotions
+URL:https://example.com/easter
+END:VEVENT
+BEGIN:VEVENT
+UID:baa56130-0c5e-4b7e-84df-fee47c8ae98f@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250711
+SUMMARY:Summer Sales
+LOCATION:Online
+DESCRIPTION:Seasonal discounts across fashion and travel industries
+URL:https://example.com/summer
+END:VEVENT
+BEGIN:VEVENT
+UID:387b76fb-2cba-4c5e-bbdc-8d43c05b9ff8@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250715
+DTEND;VALUE=DATE:20250717
+SUMMARY:Amazon Prime Day
+LOCATION:Online
+DESCRIPTION:Exclusive Amazon Prime deals (estimated)
+URL:https://www.amazon.com/primeday
+END:VEVENT
+BEGIN:VEVENT
+UID:e7fdd40b-33a7-4461-aa59-05d5a301b243@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250902
+SUMMARY:Back to School Sales
+LOCATION:Online
+DESCRIPTION:Sales for school supplies and electronics
+URL:https://example.com/backtoschool
+END:VEVENT
+BEGIN:VEVENT
+UID:7f77d677-af19-4085-80df-b663b9e538c7@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250907
+DTEND;VALUE=DATE:20250909
+SUMMARY:Mid-Autumn Festival Sales
+LOCATION:Online
+DESCRIPTION:Popular retail season in parts of Asia\; global brands particip
+ ate
+URL:https://example.com/midautumn
+END:VEVENT
+BEGIN:VEVENT
+UID:f9903cf8-9ec6-4c39-b51a-8c4f4f60418c@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Halloween
+LOCATION:Online
+DESCRIPTION:Global retail opportunity in costumes\, candy\, events
+URL:https://example.com/halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:059b17ba-1aec-43a0-a09a-e02f8672a47b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+SUMMARY:Singles' Day (11.11)
+LOCATION:Online
+DESCRIPTION:World's biggest online shopping day from China
+URL:https://example.com/1111
+END:VEVENT
+BEGIN:VEVENT
+UID:275e1463-b03a-4f0e-978d-7e2eabfde14e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251227
+SUMMARY:Christmas Holiday Sales
+LOCATION:Online
+DESCRIPTION:Major seasonal shopping period
+URL:https://example.com/christmas
+END:VEVENT
+BEGIN:VEVENT
+UID:6a998d1e-77a4-4018-a4f9-a44bc8a100c4@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:Boxing Day Sales
+LOCATION:Online
+DESCRIPTION:Post-Christmas retail discounts
+URL:https://example.com/boxingday
+END:VEVENT
+BEGIN:VEVENT
+UID:e129a6b6-56ac-421f-87b4-6bcf488f2566@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250212
+SUMMARY:Safer Internet Day
+LOCATION:Online
+DESCRIPTION:Internet safety awareness
+URL:https://www.saferinternetday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:98076883-57b1-49a0-9c89-32a0001b65a1@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250129
+SUMMARY:Data Privacy Day
+LOCATION:Online
+DESCRIPTION:Awareness about data protection and privacy
+URL:https://dataprivacyday.eu/
+END:VEVENT
+BEGIN:VEVENT
+UID:67afe45f-6aa4-43d0-94a8-0b785790a4c3@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250504
+DTEND;VALUE=DATE:20250505
+SUMMARY:Star Wars Day
+LOCATION:Online
+DESCRIPTION:May the 4th be with you
+URL:https://www.starwars.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cca867ef-019f-41a0-8911-3df8296da84d@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250717
+DTEND;VALUE=DATE:20250718
+SUMMARY:World Emoji Day
+LOCATION:Online
+DESCRIPTION:Fun social media content day
+URL:https://worldemojiday.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:f022e268-686c-46f2-be06-de973176f7e7@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+SUMMARY:World Photography Day
+LOCATION:Online
+DESCRIPTION:Celebrating photography
+URL:https://www.worldphotographyday.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:e632e919-f404-4cf1-9cc0-a8054e159546@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:International Coffee Day
+LOCATION:Online
+DESCRIPTION:Campaigns around coffee culture
+URL:https://internationalcoffeeday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:cac2f06d-220e-479d-8e49-5a25dadff2f5@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:World Braille Day
+LOCATION:Online
+DESCRIPTION:Recognizing importance of braille for visually impaired
+URL:https://www.un.org/en/observances/braille-day
+END:VEVENT
+BEGIN:VEVENT
+UID:9d5d9779-3e53-454e-a522-34973b409b6c@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:International Day of Education
+LOCATION:Online
+DESCRIPTION:Education as a fundamental human right
+URL:https://www.un.org/en/observances/education-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6d4dce88-fd67-48a1-9ae4-d9c4c056f6f2@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:International Holocaust Remembrance Day
+LOCATION:Online
+DESCRIPTION:Remembrance of Holocaust victims
+URL:https://www.un.org/en/holocaustremembrance
+END:VEVENT
+BEGIN:VEVENT
+UID:231c1702-f9a5-42a5-acca-3ef3047eef31@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:World Cancer Day
+LOCATION:Online
+DESCRIPTION:Cancer prevention and treatment awareness
+URL:https://www.worldcancerday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5246cc-2bd1-48f6-beac-b5825bd64664@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Zero Tolerance for FGM Day
+LOCATION:Online
+DESCRIPTION:Action against female genital mutilation
+URL:https://www.un.org/en/observances/female-genital-mutilation-zero-tolerance-day
+END:VEVENT
+BEGIN:VEVENT
+UID:4b2b5352-4a81-4ad8-903f-f16176b6d083@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:World Pulses Day
+LOCATION:Online
+DESCRIPTION:Pulses for nutrition and sustainability
+URL:https://www.un.org/en/observances/world-pulses-day
+END:VEVENT
+BEGIN:VEVENT
+UID:db11ef6d-775c-4ca0-abbb-ef68759a255c@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:Women and Girls in Science Day
+LOCATION:Online
+DESCRIPTION:Gender equality in science
+URL:https://www.un.org/en/observances/women-and-girls-in-science-day
+END:VEVENT
+BEGIN:VEVENT
+UID:58e8a86b-1ccb-4ca6-b776-98b7484012d6@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:World Radio Day
+LOCATION:Online
+DESCRIPTION:Celebration of radio as a medium
+URL:https://www.un.org/en/observances/radio-day
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5cb323-17d6-4bd6-aa7f-dc5b0ed9e9aa@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:Valentine's Day
+LOCATION:Online
+DESCRIPTION:Major gift and e-commerce sales day
+URL:https://example.com/valentine
+END:VEVENT
+BEGIN:VEVENT
+UID:5e2bb4a7-1ae4-43bc-bcf2-f6efe247e096@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:World Day of Social Justice
+LOCATION:Online
+DESCRIPTION:Upholding social justice for all
+URL:https://www.un.org/en/observances/social-justice-day
+END:VEVENT
+BEGIN:VEVENT
+UID:19392236-a5fc-4c5e-bc2f-220fa122cedb@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:International Mother Language Day
+LOCATION:Online
+DESCRIPTION:Preserving linguistic diversity
+URL:https://www.un.org/en/observances/mother-language-day
+END:VEVENT
+BEGIN:VEVENT
+UID:eea20719-031d-43f8-a800-3164747b527a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:World Wildlife Day
+LOCATION:Online
+DESCRIPTION:Protecting wild fauna and flora
+URL:https://www.un.org/en/observances/world-wildlife-day
+END:VEVENT
+BEGIN:VEVENT
+UID:8f5b16ce-413e-4827-88bc-f189c471e38f@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:International Women's Day
+LOCATION:Online
+DESCRIPTION:Gender equality and women's rights
+URL:https://www.un.org/en/observances/international-womens-day
+END:VEVENT
+BEGIN:VEVENT
+UID:9b1635d8-c3c8-4f91-a82f-28a387d1ab82@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:St. Patrick's Day
+LOCATION:Online
+DESCRIPTION:Campaigns around Irish heritage
+URL:https://example.com/stpatrick
+END:VEVENT
+BEGIN:VEVENT
+UID:c2ab8e50-a70b-4019-b066-7c003dea7322@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:International Day of Happiness
+LOCATION:Online
+DESCRIPTION:Promoting happiness and well-being
+URL:https://www.un.org/en/observances/happiness-day
+END:VEVENT
+BEGIN:VEVENT
+UID:01bcb39d-7c65-44f5-8f73-124ac6e756da@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:International Day for Elimination of Racial Discrimination
+LOCATION:Online
+DESCRIPTION:Fighting racial discrimination
+URL:https://www.un.org/en/observances/end-racism-day
+END:VEVENT
+BEGIN:VEVENT
+UID:08d7bceb-75d6-462f-afe2-2aa7fc62216b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:International Day of Forests
+LOCATION:Online
+DESCRIPTION:Importance of forests
+URL:https://www.un.org/en/observances/forests-day
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ea30a5-292b-4ff5-af05-b572dae227c1@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:World Poetry Day
+LOCATION:Online
+DESCRIPTION:Poetry and creativity
+URL:https://www.un.org/en/observances/world-poetry-day
+END:VEVENT
+BEGIN:VEVENT
+UID:913ba1a1-2dc9-4a02-9e98-9c9161b28678@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:World Water Day
+LOCATION:Online
+DESCRIPTION:Sustainable use of water
+URL:https://www.un.org/en/observances/world-water-day
+END:VEVENT
+BEGIN:VEVENT
+UID:09e11bfd-250d-4c04-9ce2-0e7ae8c60439@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:World Meteorological Day
+LOCATION:Online
+DESCRIPTION:Weather\, climate and water
+URL:https://public.wmo.int/en/bulletin/world-meteorological-day
+END:VEVENT
+BEGIN:VEVENT
+UID:8d74a0b2-7d89-424d-a32d-cb22c3defc5b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:World Tuberculosis Day
+LOCATION:Online
+DESCRIPTION:TB prevention and treatment
+URL:https://www.who.int/campaigns/world-tb-day
+END:VEVENT
+BEGIN:VEVENT
+UID:45925b28-4537-49c1-bb7d-2947aa61351b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:World Health Day
+LOCATION:Online
+DESCRIPTION:Global health awareness
+URL:https://www.un.org/en/observances/world-health-day
+END:VEVENT
+BEGIN:VEVENT
+UID:b829bb23-f4b6-44bd-ab48-c4ca354aae1a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:International Mother Earth Day
+LOCATION:Online
+DESCRIPTION:Recognizing Earth as our shared home
+URL:https://www.un.org/en/observances/earth-day
+END:VEVENT
+BEGIN:VEVENT
+UID:1e43713e-f3b1-4a28-b9c7-374259930bf6@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Earth Day
+LOCATION:Online
+DESCRIPTION:Environmental protection and climate action
+URL:https://www.earthday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ea3393b9-96f1-4745-91ae-e3cf2ba9cf87@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:World Book and Copyright Day
+LOCATION:Online
+DESCRIPTION:Reading and author rights
+URL:https://www.un.org/en/observances/world-book-and-copyright-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6a947dde-4178-454f-b1e9-edeed3fed4cd@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:World Malaria Day
+LOCATION:Online
+DESCRIPTION:Malaria prevention awareness
+URL:https://www.who.int/campaigns/world-malaria-day
+END:VEVENT
+BEGIN:VEVENT
+UID:ca3de41a-41bd-41fa-a286-b9365c811619@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:International Jazz Day
+LOCATION:Online
+DESCRIPTION:Jazz music and culture
+URL:https://jazzday.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:385eafd5-63c6-4df3-8367-a2d68577352e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:International Workers' Day
+LOCATION:Online
+DESCRIPTION:Workers' rights and labour awareness
+URL:https://en.wikipedia.org/wiki/International_Workers%27_Day
+END:VEVENT
+BEGIN:VEVENT
+UID:dec091f2-f542-4361-b567-356726aee3cb@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:World Press Freedom Day
+LOCATION:Online
+DESCRIPTION:Free and independent media
+URL:https://www.un.org/en/observances/press-freedom-day
+END:VEVENT
+BEGIN:VEVENT
+UID:d59d10ff-af1a-4a88-9c31-f7d91e115486@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:International Day of Families
+LOCATION:Online
+DESCRIPTION:Importance of families
+URL:https://www.un.org/en/observances/international-day-of-families
+END:VEVENT
+BEGIN:VEVENT
+UID:da1a661d-4262-4cb9-998a-64ddd265ab64@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:International Day of Light
+LOCATION:Online
+DESCRIPTION:Role of light in science and culture
+URL:https://www.lightday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:5e70ad9e-7bc4-4640-bb95-f3d3580c0cc0@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:World Telecommunication and Information Society Day
+LOCATION:Online
+DESCRIPTION:Digital technologies and connectivity
+URL:https://www.itu.int/en/wtisd
+END:VEVENT
+BEGIN:VEVENT
+UID:cba478f3-edf7-47e7-ba36-576e8e80ea47@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:International Day for Biological Diversity
+LOCATION:Online
+DESCRIPTION:Biodiversity awareness
+URL:https://www.cbd.int/idb/
+END:VEVENT
+BEGIN:VEVENT
+UID:df8f14cd-b8cd-448a-87b7-6b2676490803@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:World No Tobacco Day
+LOCATION:Online
+DESCRIPTION:Health risks of tobacco use
+URL:https://www.who.int/campaigns/world-no-tobacco-day
+END:VEVENT
+BEGIN:VEVENT
+UID:23583824-2b4d-43e9-a01f-110ee5c20f6a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:World Environment Day
+LOCATION:Online
+DESCRIPTION:Protecting the environment
+URL:https://www.un.org/en/observances/environment-day
+END:VEVENT
+BEGIN:VEVENT
+UID:bd56fca9-2db4-4345-b324-6a8756e47e94@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:World Oceans Day
+LOCATION:Online
+DESCRIPTION:Ocean ecosystems conservation
+URL:https://www.un.org/en/observances/oceans-day
+END:VEVENT
+BEGIN:VEVENT
+UID:59e08b5d-0255-4c50-b05c-d869ba79e24b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:World Day Against Child Labour
+LOCATION:Online
+DESCRIPTION:Ending child labour
+URL:https://www.ilo.org/global/topics/child-labour/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe823d1-346e-4435-b8c5-54bf6123bf3e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:World Blood Donor Day
+LOCATION:Online
+DESCRIPTION:Voluntary blood donations
+URL:https://www.who.int/campaigns/world-blood-donor-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6df9749a-5a15-493e-bf75-38ec543eeb3b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:World Day to Combat Desertification and Drought
+LOCATION:Online
+DESCRIPTION:Desertification issues awareness
+URL:https://www.un.org/en/observances/desertification-day
+END:VEVENT
+BEGIN:VEVENT
+UID:34731d1d-8af5-4a63-82d8-427a44f250ae@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:World Refugee Day
+LOCATION:Online
+DESCRIPTION:Solidarity with refugees
+URL:https://www.un.org/en/observances/refugee-day
+END:VEVENT
+BEGIN:VEVENT
+UID:728ece69-9323-42a1-abb5-7ef2a8eb0f2d@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:International Day of Yoga
+LOCATION:Online
+DESCRIPTION:Health and mindfulness
+URL:https://www.un.org/en/observances/yoga-day
+END:VEVENT
+BEGIN:VEVENT
+UID:4c459a87-93b7-4f39-b625-2910eb236162@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:World Population Day
+LOCATION:Online
+DESCRIPTION:Global population issues
+URL:https://www.un.org/en/observances/world-population-day
+END:VEVENT
+BEGIN:VEVENT
+UID:b8919abf-2f1f-4959-98fe-f732b84495fd@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Nelson Mandela International Day
+LOCATION:Online
+DESCRIPTION:Honoring Nelson Mandela's legacy
+URL:https://www.un.org/en/observances/mandela-day
+END:VEVENT
+BEGIN:VEVENT
+UID:612a9927-3fcf-4b85-afcf-a36c1f199c89@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:World Hepatitis Day
+LOCATION:Online
+DESCRIPTION:Hepatitis prevention
+URL:https://www.un.org/en/observances/hepatitis-day
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe16473-d926-4a57-8ec5-eceb986c2b1b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:International Day of Friendship
+LOCATION:Online
+DESCRIPTION:Friendship among peoples
+URL:https://www.un.org/en/observances/friendship-day
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdca98e-1a4b-4579-9639-c0f9a2970380@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:International Day of the World's Indigenous Peoples
+LOCATION:Online
+DESCRIPTION:Rights of indigenous peoples
+URL:https://www.un.org/en/observances/indigenous-day
+END:VEVENT
+BEGIN:VEVENT
+UID:bd39e7d5-b304-4c87-9da0-7465a8a58c8e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:International Youth Day
+LOCATION:Online
+DESCRIPTION:Empowering youth worldwide
+URL:https://www.un.org/en/observances/youth-day
+END:VEVENT
+BEGIN:VEVENT
+UID:8796d82c-0fad-451d-b1b1-a01006478cfa@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:World Humanitarian Day
+LOCATION:Online
+DESCRIPTION:Recognizing humanitarian workers
+URL:https://www.un.org/en/observances/humanitarian-day
+END:VEVENT
+BEGIN:VEVENT
+UID:30ac7c98-b6e1-46bb-9534-c265df6455b6@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Remembrance of the Slave Trade and its Abolition
+LOCATION:Online
+DESCRIPTION:Remembering slave trade history
+URL:https://en.unesco.org/commemorations/slavetraderemembranceday
+END:VEVENT
+BEGIN:VEVENT
+UID:41e15fa2-38f0-41bc-8630-032f0d595d1d@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:International Literacy Day
+LOCATION:Online
+DESCRIPTION:Promoting literacy
+URL:https://www.un.org/en/observances/literacy-day
+END:VEVENT
+BEGIN:VEVENT
+UID:91115a39-ec8c-40fa-bca2-abd33be9bdd1@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:International Day of Democracy
+LOCATION:Online
+DESCRIPTION:Democratic values
+URL:https://www.un.org/en/observances/democracy-day
+END:VEVENT
+BEGIN:VEVENT
+UID:a4194f73-b073-4274-9293-18a826bb243e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:International Day of Peace
+LOCATION:Online
+DESCRIPTION:World peace and non-violence
+URL:https://www.un.org/en/observances/international-day-of-peace
+END:VEVENT
+BEGIN:VEVENT
+UID:12c5e547-a1a8-41f0-b87b-ed17b7639d99@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:International Day of Sign Languages
+LOCATION:Online
+DESCRIPTION:Awareness of sign languages
+URL:https://www.un.org/en/observances/sign-languages-day
+END:VEVENT
+BEGIN:VEVENT
+UID:05ad26f5-bbfb-4162-a78e-594b6951be19@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:World Tourism Day
+LOCATION:Online
+DESCRIPTION:Tourism and cultural exchange
+URL:https://www.unwto.org/world-tourism-day
+END:VEVENT
+BEGIN:VEVENT
+UID:1499c9f4-a5ea-4a58-b5fc-29f02408477c@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:International Translation Day
+LOCATION:Online
+DESCRIPTION:Translation and language diversity
+URL:https://www.un.org/en/observances/international-translation-day
+END:VEVENT
+BEGIN:VEVENT
+UID:a05f9e5e-38c2-4398-8f4c-1205124b97ee@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:International Day of Older Persons
+LOCATION:Online
+DESCRIPTION:Issues affecting older persons
+URL:https://www.un.org/en/observances/older-persons-day
+END:VEVENT
+BEGIN:VEVENT
+UID:7979acdf-8ce4-49ad-9744-b16ef4fc3289@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:World Teachers' Day
+LOCATION:Online
+DESCRIPTION:Honoring teachers
+URL:https://www.un.org/en/observances/world-teachers-day
+END:VEVENT
+BEGIN:VEVENT
+UID:f49ab7dd-582f-4ca6-89f2-3f58227267e6@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:World Mental Health Day
+LOCATION:Online
+DESCRIPTION:Mental health awareness
+URL:https://www.un.org/en/observances/world-mental-health-day
+END:VEVENT
+BEGIN:VEVENT
+UID:61e8d113-460e-4821-9678-eb7fd6bb8589@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:International Day of the Girl Child
+LOCATION:Online
+DESCRIPTION:Empowering girls worldwide
+URL:https://www.un.org/en/observances/girl-child-day
+END:VEVENT
+BEGIN:VEVENT
+UID:a453b5d8-891d-488a-8722-81909601b14e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:International Day for Disaster Risk Reduction
+LOCATION:Online
+DESCRIPTION:Reducing disaster risk
+URL:https://www.un.org/en/observances/disaster-reduction-day
+END:VEVENT
+BEGIN:VEVENT
+UID:cf83c858-436f-452e-9b39-914c9d46062e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:World Food Day
+LOCATION:Online
+DESCRIPTION:Eradicating hunger
+URL:https://www.un.org/en/observances/world-food-day
+END:VEVENT
+BEGIN:VEVENT
+UID:8e2a5433-08ab-4035-a1e7-74516fb69fff@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:International Day for the Eradication of Poverty
+LOCATION:Online
+DESCRIPTION:Action against poverty
+URL:https://www.un.org/en/observances/poverty-eradication-day
+END:VEVENT
+BEGIN:VEVENT
+UID:ade84c7a-dd69-4573-8818-c4865aff0b26@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:United Nations Day
+LOCATION:Online
+DESCRIPTION:Commemorating UN founding
+URL:https://www.un.org/en/observances/un-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6c98e850-8900-48ee-9148-20150043de2b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:World Development Information Day
+LOCATION:Online
+DESCRIPTION:Development issues awareness
+URL:https://www.un.org/en/observances/development-information-day
+END:VEVENT
+BEGIN:VEVENT
+UID:4716a3a2-b7d4-4169-ba5b-1cb2a7f2a20f@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:World Kindness Day
+LOCATION:Online
+DESCRIPTION:Promoting kindness and empathy
+URL:https://inspirekindness.com/world-kindness-day
+END:VEVENT
+BEGIN:VEVENT
+UID:16c9f75d-c3bc-4519-963f-2b76ed6ffc93@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:International Day for Tolerance
+LOCATION:Online
+DESCRIPTION:Promoting tolerance
+URL:https://www.un.org/en/observances/tolerance-day
+END:VEVENT
+BEGIN:VEVENT
+UID:61cf0a0b-ae36-4f31-9227-dc7c05f16123@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:International Day for Elimination of Violence Against Women
+LOCATION:Online
+DESCRIPTION:Action against violence towards women
+URL:https://www.un.org/en/observances/ending-violence-against-women-day
+END:VEVENT
+BEGIN:VEVENT
+UID:48978917-5a9a-4209-89b4-ea0da7acf741@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:World AIDS Day
+LOCATION:Online
+DESCRIPTION:Global HIV/AIDS awareness
+URL:https://www.un.org/en/observances/world-aids-day
+END:VEVENT
+BEGIN:VEVENT
+UID:84614ba5-0a41-4ff9-a5ac-a65acaf2bc9b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:International Day of Persons with Disabilities
+LOCATION:Online
+DESCRIPTION:Rights of disabled persons
+URL:https://www.un.org/en/observances/day-of-persons-with-disabilities
+END:VEVENT
+BEGIN:VEVENT
+UID:e10c3a88-5782-4680-8834-1f19c25e60bf@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:International Volunteer Day
+LOCATION:Online
+DESCRIPTION:Promoting volunteerism
+URL:https://www.un.org/en/observances/volunteer-day
+END:VEVENT
+BEGIN:VEVENT
+UID:24c924de-b74b-4d04-aefd-a54de5aabdbf@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Human Rights Day
+LOCATION:Online
+DESCRIPTION:Fundamental human rights
+URL:https://www.un.org/en/observances/human-rights-day
+END:VEVENT
+BEGIN:VEVENT
+UID:323e868d-42b4-4fd1-80a9-72b78917afaf@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:International Mountain Day
+LOCATION:Online
+DESCRIPTION:Mountain ecosystems awareness
+URL:https://www.un.org/en/observances/mountain-day
+END:VEVENT
+BEGIN:VEVENT
+UID:56eb8942-22bd-4552-8b8c-93038438471b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:International Migrants Day
+LOCATION:Online
+DESCRIPTION:Awareness of migrant issues
+URL:https://www.un.org/en/observances/migrants-day
+END:VEVENT
+BEGIN:VEVENT
+UID:edab9186-0162-4306-9712-8e03d5b2e58a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Mother's Day
+LOCATION:Online
+DESCRIPTION:Global gifting campaigns for mothers
+URL:https://example.com/mothersday
+END:VEVENT
+BEGIN:VEVENT
+UID:42c735ad-5fd4-4597-93bb-342f80785559@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Father's Day
+LOCATION:Online
+DESCRIPTION:Gifting campaigns for fathers
+URL:https://example.com/fathersday
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca0964c-c701-41f6-ba88-4afe1d35a54e@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:World Habitat Day
+LOCATION:Online
+DESCRIPTION:Sustainable human settlements
+URL:https://www.un.org/en/observances/habitat-day
+END:VEVENT
+BEGIN:VEVENT
+UID:743ae139-4489-46aa-9bd3-b9fba589878a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:World Philosophy Day
+LOCATION:Online
+DESCRIPTION:Promoting philosophy (UNESCO)
+URL:https://en.unesco.org/commemorations/philosophyday
+END:VEVENT
+BEGIN:VEVENT
+UID:6567a667-68cb-45da-83f7-b658179bfba6@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Black Friday
+LOCATION:Online
+DESCRIPTION:The biggest global shopping event
+URL:https://example.com/blackfriday
+END:VEVENT
+BEGIN:VEVENT
+UID:7bb0ce5a-d1d8-41af-9cf3-c367d714311a@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Cyber Monday
+LOCATION:Online
+DESCRIPTION:Online-only retail promotions
+URL:https://example.com/cybermonday
+END:VEVENT
+BEGIN:VEVENT
+UID:105a08b2-f92b-4220-8666-63f9dee437e5@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Giving Tuesday
+LOCATION:Online
+DESCRIPTION:Tuesday after US Thanksgiving (philanthropy campaigns)
+URL:https://www.givingtuesday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb9d355-dbf1-4a8e-9257-55deac747028@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260104
+SUMMARY:New Year Sales
+LOCATION:Online
+DESCRIPTION:Global New Year promotions and clearance sales
+URL:https://example.com/newyear
+END:VEVENT
+BEGIN:VEVENT
+UID:2e3ddf3d-f7d3-40c6-b5ba-0692b7a71889@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260224
+SUMMARY:Chinese New Year Sales
+LOCATION:Online
+DESCRIPTION:Huge retail and e-commerce campaigns in Asia with global adopti
+ on
+URL:https://example.com/cny
+END:VEVENT
+BEGIN:VEVENT
+UID:86ba16a0-e98d-463c-b3f2-e3ae846ade50@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260221
+SUMMARY:Ramadan/Eid al-Fitr Sales
+LOCATION:Online
+DESCRIPTION:Shopping events across Muslim-majority countries
+URL:https://example.com/eid
+END:VEVENT
+BEGIN:VEVENT
+UID:3792c90c-140f-49ed-acbc-964a9d46209c@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260407
+SUMMARY:Easter Weekend Sales
+LOCATION:Online
+DESCRIPTION:Seasonal retail promotions
+URL:https://example.com/easter
+END:VEVENT
+BEGIN:VEVENT
+UID:eb770d67-3360-49b0-bc37-b155eb7cda1b@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260711
+SUMMARY:Summer Sales
+LOCATION:Online
+DESCRIPTION:Seasonal discounts across fashion and travel industries
+URL:https://example.com/summer
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6d65db-71bf-4aef-8a8c-8501c91bc531@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260717
+SUMMARY:Amazon Prime Day
+LOCATION:Online
+DESCRIPTION:Exclusive Amazon Prime deals (estimated)
+URL:https://www.amazon.com/primeday
+END:VEVENT
+BEGIN:VEVENT
+UID:0765d705-a78e-4127-9a49-78607efac2ce@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260902
+SUMMARY:Back to School Sales
+LOCATION:Online
+DESCRIPTION:Sales for school supplies and electronics
+URL:https://example.com/backtoschool
+END:VEVENT
+BEGIN:VEVENT
+UID:54a02fb7-e401-493f-8e78-601f535058a3@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260927
+SUMMARY:Mid-Autumn Festival Sales
+LOCATION:Online
+DESCRIPTION:Popular retail season in parts of Asia\; global brands particip
+ ate
+URL:https://example.com/midautumn
+END:VEVENT
+BEGIN:VEVENT
+UID:038543e1-1efe-4dd3-ae6c-12a095cc5fe0@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween
+LOCATION:Online
+DESCRIPTION:Global retail opportunity in costumes\, candy\, events
+URL:https://example.com/halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:69187289-cff4-434a-a2e9-e922dfae1ff6@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Singles' Day (11.11)
+LOCATION:Online
+DESCRIPTION:World's biggest online shopping day from China
+URL:https://example.com/1111
+END:VEVENT
+BEGIN:VEVENT
+UID:0f133663-04c3-4a24-af06-9a767b197daf@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261227
+SUMMARY:Christmas Holiday Sales
+LOCATION:Online
+DESCRIPTION:Major seasonal shopping period
+URL:https://example.com/christmas
+END:VEVENT
+BEGIN:VEVENT
+UID:d58c3a57-4347-456e-9288-c814bd210102@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Boxing Day Sales
+LOCATION:Online
+DESCRIPTION:Post-Christmas retail discounts
+URL:https://example.com/boxingday
+END:VEVENT
+BEGIN:VEVENT
+UID:536b4b87-e238-41dd-9d06-c257445359c8@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Safer Internet Day
+LOCATION:Online
+DESCRIPTION:Internet safety awareness
+URL:https://www.saferinternetday.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:5279d4e2-5123-43c5-9925-6d2a8afce1f3@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:Data Privacy Day
+LOCATION:Online
+DESCRIPTION:Awareness about data protection and privacy
+URL:https://dataprivacyday.eu/
+END:VEVENT
+BEGIN:VEVENT
+UID:7aa39d79-c8cf-4f92-97b2-1e5046c70285@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:Star Wars Day
+LOCATION:Online
+DESCRIPTION:May the 4th be with you
+URL:https://www.starwars.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:826de1ad-405a-4027-a832-53410d31c8f0@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:World Emoji Day
+LOCATION:Online
+DESCRIPTION:Fun social media content day
+URL:https://worldemojiday.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f9c0dbc-53ed-418b-8cb4-a2cf2ab8f7a1@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:World Photography Day
+LOCATION:Online
+DESCRIPTION:Celebrating photography
+URL:https://www.worldphotographyday.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:f27d6a64-0074-49ce-b7db-fee104ec37d5@ics-all-day
+DTSTAMP:20250911T213209Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:International Coffee Day
+LOCATION:Online
+DESCRIPTION:Campaigns around coffee culture
+URL:https://internationalcoffeeday.org/
+END:VEVENT
+END:VCALENDAR
