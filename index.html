@@ -47,6 +47,11 @@
     footer { text-align:center; padding: 30px 16px 60px; color: var(--muted); }
     code { background:#0f1627; padding:3px 6px; border-radius:6px; border:1px solid var(--border); }
     .pill { display:inline-block; padding:6px 10px; border:1px solid var(--border); border-radius:999px; font-size:12px; color:#cbd5e1; margin:4px; background:#0f1627; }
+
+    /* Optional: make Free/Pro two columns on desktop */
+    @media (min-width: 920px) {
+      .pricing-wrap { grid-template-columns: 1fr 1fr !important; }
+    }
   </style>
 </head>
 <body>
@@ -56,20 +61,24 @@
       <span class="badge">MVP • Auto-updating ICS</span>
       <h1>Marketing Content Calendar</h1>
       <p class="tagline">All important awareness & promo days (2025–2026) in one calendar. Subscribe to Google, Outlook, or Apple in one click — and never miss a key date.</p>
+
+      <!-- CTA: Free + Premium -->
       <div class="cta">
         <!-- FREE VERSION -->
-  <a class="btn alt" target="_blank"
-     href="https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics">🎁 Get FREE version</a>
+        <a class="btn alt" target="_blank"
+           href="https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics">🎁 Get FREE version</a>
 
-  <!-- PREMIUM VERSION (Google one-click) -->
-  <a class="btn primary" target="_blank"
-     href="https://calendar.google.com/calendar/u/0/r?cid=https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Get PREMIUM (Google)</a>
+        <!-- PREMIUM VERSION (Google one-click) -->
+        <a class="btn primary" target="_blank"
+           href="https://calendar.google.com/calendar/u/0/r?cid=https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Get PREMIUM (Google)</a>
 
-  <!-- PREMIUM for Outlook/Apple -->
-  <a class="btn alt" target="_blank"
-     href="https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Get PREMIUM (Outlook / Apple)</a>
+        <!-- PREMIUM for Outlook/Apple -->
+        <a class="btn alt" target="_blank"
+           href="https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Get PREMIUM (Outlook / Apple)</a>
       </div>
-      <p class="muted" style="margin-top:10px;">ICS feed URL: <code>https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics</code></p>
+
+      <p class="muted" style="margin-top:10px;">ICS feed URL (Premium): <code>https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics</code></p>
+      <p class="muted" style="margin-top:4px;">ICS feed URL (Free): <code>https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics</code></p>
     </div>
   </header>
 
@@ -99,65 +108,69 @@
     <aside class="card">
       <h2>Get product updates</h2>
       <p class="muted">Leave your email to get notified about Premium features (filters by niche, localisations, e-commerce only, etc.).</p>
-      <form action="https://formspree.io/f/mblabnrb" method="POST">
+      <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
         <div class="form-row">
           <input class="input" type="email" name="email" placeholder="Your email" required />
           <button class="submit" type="submit">Notify me</button>
         </div>
         <input type="hidden" name="source" value="marketing-calendar-landing" />
+        <!-- Optional redirect after submit:
+        <input type="hidden" name="_redirect" value="https://saulhubdev.github.io/marketing-calendar/success.html" />
+        -->
       </form>
       <p class="muted" style="margin-top:10px;font-size:12px;">By subscribing you agree to receive occasional emails about updates. Unsubscribe anytime.</p>
     </aside>
 
-<!-- Free vs Premium -->
-<section class="card" style="grid-column: 1 / -1;">
-  <h2>Free vs Premium</h2>
-  <p class="muted">Start free. Upgrade anytime for the full global set + e-commerce moments.</p>
+    <!-- Free vs Premium -->
+    <section class="card" style="grid-column: 1 / -1;">
+      <h2>Free vs Premium</h2>
+      <p class="muted">Start free. Upgrade anytime for the full global set + e-commerce moments.</p>
 
-  <div class="pricing-wrap" style="display:grid; gap:16px; grid-template-columns: 1fr; margin-top:12px;">
-    <div class="plan" style="border:1px solid var(--border); border-radius:14px; padding:20px; background:#0f1627;">
-      <h3 style="margin:0 0 6px;">FREE</h3>
-      <p class="muted" style="margin:0 0 12px;">38 hand-picked dates (19 holidays + 19 promo windows).</p>
-      <ul class="list-compact">
-        <li>✅ Core holidays (New Year, Easter, Halloween, Christmas)</li>
-        <li>✅ Key promos (Back to School, Black Friday, Cyber Monday)</li>
-        <li>✅ Singles’ Day, Prime Day (estimated window)</li>
-        <li>✅ Works with Google / Outlook / Apple</li>
-        <li>❌ No niche filters / regions</li>
-        <li>❌ No extended awareness days</li>
-      </ul>
-      <div class="cta" style="justify-content:flex-start;">
-        <a class="btn alt" target="_blank"
-           href="https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics">🎁 Get FREE ICS</a>
+      <div class="pricing-wrap" style="display:grid; gap:16px; grid-template-columns: 1fr; margin-top:12px;">
+        <div class="plan" style="border:1px solid var(--border); border-radius:14px; padding:20px; background:#0f1627;">
+          <h3 style="margin:0 0 6px;">FREE</h3>
+          <p class="muted" style="margin:0 0 12px;">38 hand-picked dates (19 holidays + 19 promo windows).</p>
+          <ul class="list-compact">
+            <li>✅ Core holidays (New Year, Easter, Halloween, Christmas)</li>
+            <li>✅ Key promos (Back to School, Black Friday, Cyber Monday)</li>
+            <li>✅ Singles’ Day, Prime Day (estimated window)</li>
+            <li>✅ Works with Google / Outlook / Apple</li>
+            <li>❌ No niche filters / regions</li>
+            <li>❌ No extended awareness days</li>
+          </ul>
+          <div class="cta" style="justify-content:flex-start;">
+            <a class="btn alt" target="_blank"
+               href="https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics">🎁 Get FREE ICS</a>
+          </div>
+        </div>
+
+        <div class="plan" style="border:1px solid var(--border); border-radius:14px; padding:20px; background:#121a2b;">
+          <h3 style="margin:0 0 6px;">PREMIUM</h3>
+          <p class="muted" style="margin:0 0 12px;">150+ global awareness + promo days (2025–2026), auto-updating.</p>
+          <ul class="list-compact">
+            <li>✅ All FREE content</li>
+            <li>✅ Full awareness set (UN/WHO/UNESCO + social days)</li>
+            <li>✅ E-commerce seasons (Ramadan/Eid, CNY, Summer, BFCM, etc.)</li>
+            <li>✅ Auto-updates via .ics feed</li>
+            <li>🛠 Soon: niche filters (Tech/Health/Edu/Finance)</li>
+            <li>🗺 Soon: regional packs (EU/US/APAC)</li>
+          </ul>
+          <div class="cta" style="justify-content:flex-start; gap:10px;">
+            <!-- Premium Google one-click -->
+            <a class="btn primary" target="_blank"
+               href="https://calendar.google.com/calendar/u/0/r?cid=https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Get PREMIUM (Google)</a>
+            <!-- Premium direct ICS (Outlook/Apple) -->
+            <a class="btn alt" target="_blank"
+               href="https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Outlook / Apple</a>
+            <!-- (Optional) Replace with your Gumroad/LemonSqueezy checkout when ready:
+            <a class="btn" target="_blank" href="https://gumroad.com/l/your-product">Buy once — $9</a>
+            -->
+          </div>
+        </div>
       </div>
-    </div>
+    </section>
 
-    <div class="plan" style="border:1px solid var(--border); border-radius:14px; padding:20px; background:#121a2b;">
-      <h3 style="margin:0 0 6px;">PREMIUM</h3>
-      <p class="muted" style="margin:0 0 12px;">150+ global awareness + promo days (2025–2026), auto-updating.</p>
-      <ul class="list-compact">
-        <li>✅ All FREE content</li>
-        <li>✅ Full awareness set (UN/WHO/UNESCO + social days)</li>
-        <li>✅ E-commerce seasons (Ramadan/Eid, CNY, Summer, BFCM, etc.)</li>
-        <li>✅ Auto-updates via .ics feed</li>
-        <li>🛠 Soon: niche filters (Tech/Health/Edu/Finance)</li>
-        <li>🗺 Soon: regional packs (EU/US/APAC)</li>
-      </ul>
-      <div class="cta" style="justify-content:flex-start; gap:10px;">
-        <!-- Premium Google one-click -->
-        <a class="btn primary" target="_blank"
-           href="https://calendar.google.com/calendar/u/0/r?cid=https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Get PREMIUM (Google)</a>
-        <!-- Premium direct ICS (Outlook/Apple) -->
-        <a class="btn alt" target="_blank"
-           href="https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Outlook / Apple</a>
-        <!-- Jei naudoji Gumroad/LemonSqueezy, pakeisk šitą nuorodą į checkout -->
-        <!-- <a class="btn" target="_blank" href="https://gumroad.com/l/your-product">Buy once — $9</a> -->
-      </div>
-    </div>
-  </div>
-</section>
-
-    <!-- Extra: Free vs Premium teaser -->
+    <!-- Roadmap -->
     <section class="card" style="grid-column: 1 / -1;">
       <h2>Roadmap</h2>
       <ul class="list-compact">
