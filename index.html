@@ -6,17 +6,23 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      text-align: center;
-      padding: 50px;
       background: #f9f9f9;
       color: #333;
+      margin: 0;
+      padding: 0;
     }
-    h1 {
-      color: #222;
+    header {
+      text-align: center;
+      padding: 60px 20px;
+      background: #4285F4;
+      color: white;
     }
+    h1 { margin: 0; font-size: 2.5em; }
+    p.tagline { font-size: 1.2em; margin-top: 10px; }
+    main { padding: 40px 20px; text-align: center; }
     .btn {
       display: inline-block;
-      margin-top: 20px;
+      margin: 20px 10px;
       padding: 15px 25px;
       font-size: 18px;
       font-weight: bold;
@@ -26,29 +32,45 @@
       text-decoration: none;
       transition: background 0.3s;
     }
-    .btn:hover {
-      background: #3367D6;
+    .btn:hover { background: #3367D6; }
+    form {
+      margin-top: 40px;
     }
-    p {
-      max-width: 600px;
-      margin: 20px auto;
-      line-height: 1.6;
+    input[type="email"] {
+      padding: 12px;
+      font-size: 16px;
+      width: 250px;
     }
+    button {
+      padding: 12px 20px;
+      font-size: 16px;
+      background: #34A853;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-left: 10px;
+    }
+    button:hover { background: #0c7c30; }
   </style>
 </head>
 <body>
-  <h1>📅 Marketing Content Calendar</h1>
-  <p>
-    Get all important marketing and awareness days directly in your Google Calendar.  
-    Always up to date, synced automatically.
-  </p>
-  <a class="btn" href="https://calendar.google.com/calendar/u/0/r?cid=https://sauliazmogis.github.io/marketing-calendar/marketing_days_fixed.ics" target="_blank">
-    ➕ Subscribe in Google Calendar
-  </a>
-  <p>
-    Or copy this link and add it via <b>Other calendars → From URL</b>:  
-    <br>
-    <code>https://sauliazmogis.github.io/marketing-calendar/marketing_days_fixed.ics</code>
-  </p>
+  <header>
+    <h1>📅 Marketing Content Calendar</h1>
+    <p class="tagline">Never miss an important awareness or promo day again.</p>
+  </header>
+  <main>
+    <h2>Subscribe now</h2>
+    <a class="btn" href="https://calendar.google.com/calendar/u/0/r?cid=https://sauliazmogis.github.io/marketing-calendar/marketing_days_fixed.ics" target="_blank">Google Calendar</a>
+    <a class="btn" href="https://sauliazmogis.github.io/marketing-calendar/marketing_days_fixed.ics" target="_blank">Outlook / Apple</a>
+
+    <form action="https://formspree.io/f/mblabnrb" method="POST">
+      <h3>Get notified about new features</h3>
+      <input type="email" name="email" placeholder="Your email" required>
+      <button type="submit">Subscribe</button>
+    </form>
+
+    <p>Example events included: New Year, International Women’s Day, Easter, Ramadan, Summer Sales, Black Friday, Human Rights Day, and 100+ more.</p>
+  </main>
 </body>
 </html>
