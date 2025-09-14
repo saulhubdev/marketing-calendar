@@ -4,278 +4,239 @@
   <meta charset="UTF-8" />
   <title>Marketing Content Calendar — Never miss key dates</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="All important awareness & promo days in one auto-updating calendar. Subscribe to Google/Outlook/Apple in one click." />
+  <meta name="description" content="All important awareness & promo days in one auto-updating calendar. Subscribe to Google/Outlook/Apple or get the Premium download." />
 
   <!-- Social preview -->
   <meta property="og:title" content="Marketing Content Calendar" />
-  <meta property="og:description" content="All key awareness & promo days. Auto-updating. Google/Outlook/Apple." />
+  <meta property="og:description" content="All key awareness & promo days. Google/Outlook/Apple. Free and Premium." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://saulhubdev.github.io/marketing-calendar/" />
 
   <style>
-    :root {
-      --bg:#0b1220; --card:#121a2b; --muted:#94a3b8; --txt:#e5e7eb;
-      --brand:#4f46e5; --brand-2:#22c55e; --border:#223150;
+    :root{
+      --bg:#0b1220; --bg-2:#0f1627; --card:#121a2b; --muted:#94a3b8; --txt:#e5e7eb;
+      --brand:#4f46e5; --brand-2:#22c55e; --border:#223150; --shadow:0 8px 30px rgba(0,0,0,.25);
+      --ok:#22c55e; --no:#ef4444; --gold:#f3c94b; --cyan:#3ec9e9;
     }
-    * { box-sizing: border-box; }
-    body { margin:0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background:var(--bg); color:var(--txt); }
-    a { color: var(--brand); text-decoration: none; }
-    header { padding: 56px 16px 24px; text-align: center; }
-    .hero { max-width: 980px; margin: 0 auto; }
-    .badge { display: inline-block; padding: 6px 10px; font-size: 12px; letter-spacing:.3px; color:#a5b4fc; background: rgba(79,70,229,.12); border:1px solid rgba(79,70,229,.25); border-radius: 999px; }
-    h1 { margin:14px 0 10px; font-size: clamp(30px, 5vw, 48px); line-height:1.1; }
-    .tagline { color: var(--muted); font-size: clamp(16px, 2.5vw, 20px); max-width: 760px; margin: 0 auto; }
-    .cta { margin-top: 28px; display:flex; justify-content:center; gap:12px; flex-wrap: wrap; }
-    .btn { display:inline-block; padding:14px 18px; border-radius:10px; font-weight:600; border:1px solid var(--border); background:#1b2540; color:#fff; }
-    .btn:hover { background:#223057; }
-    .btn.primary { background: var(--brand); border-color: transparent; }
-    .btn.primary:hover { filter: brightness(1.05); }
-    .btn.alt { background:#122038; }
-    .grid { max-width: 1100px; margin: 38px auto; padding:0 16px; display:grid; gap:16px; grid-template-columns: 1fr; }
-    @media (min-width: 920px) { .grid { grid-template-columns: 1.2fr .8fr; } }
-    .card { background: var(--card); border:1px solid var(--border); border-radius:14px; padding:20px; }
-    h2 { margin:0 0 12px; font-size: 22px; }
-    ul { padding-left: 18px; margin: 10px 0; color: var(--txt); }
-    li { margin: 8px 0; }
-    .muted { color: var(--muted); }
-    .list-compact li { margin: 6px 0; }
-    .hr { height:1px; background:var(--border); border:0; margin:18px 0; }
-    .input, .select { width:100%; padding:12px 14px; border-radius:10px; border:1px solid var(--border); background:#0f1627; color:#fff; }
-    .form-row { display:grid; grid-template-columns: 1fr auto; gap:10px; }
-    .submit { padding:12px 18px; border-radius:10px; border:0; background:var(--brand-2); color:#001b08; font-weight:700; cursor:pointer; }
-    .submit:hover { filter: brightness(1.05); }
-    footer { text-align:center; padding: 30px 16px 60px; color: var(--muted); }
-    code { background:#0f1627; padding:3px 6px; border-radius:6px; border:1px solid var(--border); }
-    .pill { display:inline-block; padding:6px 10px; border:1px solid var(--border); border-radius:999px; font-size:12px; color:#cbd5e1; margin:4px; background:#0f1627; }
+    *{box-sizing:border-box}
+    body{margin:0; font-family:Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background:var(--bg); color:var(--txt)}
+    a{color:var(--brand); text-decoration:none}
+    .wrap{max-width:1140px; margin:0 auto; padding:0 16px}
 
-    /* Optional: make Free/Pro two columns on desktop */
-    @media (min-width: 920px) {
-      .pricing-wrap { grid-template-columns: 1fr 1fr !important; }
-    }
+    /* Hero */
+    header{padding:64px 0 32px; background:linear-gradient(180deg, rgba(79,70,229,.12), transparent 60%)}
+    .hero{ text-align:center }
+    .badge{display:inline-block; padding:6px 10px; font-size:12px; color:#a5b4fc; background:rgba(79,70,229,.12); border:1px solid rgba(79,70,229,.25); border-radius:999px}
+    h1{margin:14px 0 10px; font-size: clamp(30px,5vw,48px); line-height:1.1}
+    .tagline{color:var(--muted); font-size: clamp(16px,2.5vw,20px); max-width:760px; margin:0 auto}
+    .cta{margin-top:28px; display:flex; justify-content:center; gap:12px; flex-wrap:wrap}
+    .btn{display:inline-block; padding:14px 18px; border-radius:10px; font-weight:700; border:1px solid var(--border); background:#1b2540; color:#fff; box-shadow:var(--shadow)}
+    .btn:hover{background:#223057}
+    .btn.primary{background:var(--brand); border-color:transparent}
+    .btn.primary:hover{filter:brightness(1.05)}
+    .btn.alt{background:#122038}
+    .note{color:var(--muted); margin-top:8px}
+    code{background:var(--bg-2); padding:3px 6px; border-radius:6px; border:1px solid var(--border)}
+
+    /* Sections */
+    section{margin:32px 0}
+    .grid{display:grid; gap:16px; grid-template-columns:1fr}
+    @media(min-width:960px){ .grid{grid-template-columns:1.2fr .8fr} }
+    .card{background:var(--card); border:1px solid var(--border); border-radius:14px; padding:22px; box-shadow:var(--shadow)}
+
+    /* Plans */
+    .plans{text-align:center}
+    .plan-cards{display:grid; gap:18px; grid-template-columns:1fr; margin-top:16px}
+    @media(min-width:900px){ .plan-cards{grid-template-columns:1fr 1fr} }
+    .plan.card{background:var(--bg-2)}
+    .plan.free{border-top:4px solid var(--cyan)}
+    .plan.premium{border-top:4px solid var(--gold)}
+    .plan h3{margin:0 0 6px}
+    .plan ul{padding-left:18px; margin:10px 0}
+    .pill{display:inline-block; padding:6px 10px; border:1px solid var(--border); border-radius:999px; font-size:12px; color:#cbd5e1; margin:4px; background:var(--bg-2)}
+
+    /* Comparison table */
+    .compare{overflow-x:auto}
+    table{width:100%; border-collapse:collapse; background:var(--bg-2); border:1px solid var(--border); border-radius:12px; overflow:hidden}
+    th,td{padding:14px 12px; border-bottom:1px solid var(--border); text-align:left}
+    th{background:#0e1a33; color:#cbd5e1}
+    tr:last-child td{border-bottom:0}
+    .yes{color:var(--ok); font-weight:700}
+    .no{color:var(--no); font-weight:700}
+
+    /* Forms */
+    .form-row{display:grid; grid-template-columns:1fr auto; gap:10px}
+    .input{width:100%; padding:12px 14px; border-radius:10px; border:1px solid var(--border); background:var(--bg-2); color:#fff}
+    .submit{padding:12px 18px; border-radius:10px; border:0; background:var(--brand-2); color:#001b08; font-weight:700; cursor:pointer}
+    .submit:hover{filter:brightness(1.05)}
+
+    /* Footer */
+    footer{text-align:center; padding:40px 0 64px; color:var(--muted)}
   </style>
 </head>
 <body>
 
+  <!-- HERO -->
   <header>
-    <div class="hero">
-      <span class="badge">MVP • Auto-updating ICS</span>
+    <div class="wrap hero">
+      <span class="badge">MVP • Downloadable ICS</span>
       <h1>Marketing Content Calendar</h1>
-      <p class="tagline">All important awareness & promo days (2025–2026) in one calendar. Subscribe to Google, Outlook, or Apple in one click — and never miss a key date.</p>
+      <p class="tagline">All important awareness & promo days (2025–2026). Import to Google, Outlook or Apple in minutes.</p>
 
-      <!-- CTA: Free + Premium -->
       <div class="cta">
-        <!-- FREE VERSION -->
+        <!-- FREE -->
         <a class="btn alt" target="_blank"
-           href="https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics">🎁 Get FREE version</a>
+           href="https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics">🎁 Download FREE (38 dates)</a>
 
-        <!-- PREMIUM VERSION (Google one-click) -->
+        <!-- PREMIUM via Gumroad (replace URL) -->
         <a class="btn primary" target="_blank"
-           href="https://calendar.google.com/calendar/u/0/r?cid=https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Get PREMIUM (Google)</a>
-
-        <!-- PREMIUM for Outlook/Apple -->
-        <a class="btn alt" target="_blank"
-           href="https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Get PREMIUM (Outlook / Apple)</a>
+           href="https://gumroad.com/l/marketingcalendar">⭐ Get PREMIUM — $9</a>
       </div>
 
-      <p class="muted" style="margin-top:10px;">ICS feed URL (Premium): <code>https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics</code></p>
-      <p class="muted" style="margin-top:4px;">ICS feed URL (Free): <code>https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics</code></p>
+      <p class="note">Free ICS URL: <code>https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics</code></p>
     </div>
   </header>
 
-<section class="plans">
-  <h2>Choose your plan</h2>
-  <div class="plan-cards">
+  <main class="wrap">
+    <!-- WHAT'S INSIDE + EMAIL -->
+    <div class="grid">
+      <section class="card">
+        <h2>What’s inside</h2>
+        <p class="muted">Global awareness + e-commerce moments, formatted as all-day events for clear planning.</p>
+        <ul>
+          <li>International Women’s Day, World Health Day, Human Rights Day</li>
+          <li>Black Friday, Cyber Monday, Amazon Prime Day, Singles’ Day</li>
+          <li>Mother’s & Father’s Day (international patterns)</li>
+          <li>Ramadan/Eid, Easter, Mid-Autumn, Back-to-School, Summer sales</li>
+          <li>Fun days: Star Wars Day, World Emoji Day, Coffee Day</li>
+        </ul>
+        <div>
+          <span class="pill">ICS format</span>
+          <span class="pill">2025–2026</span>
+          <span class="pill">Google / Outlook / Apple</span>
+          <span class="pill">UTC • all-day</span>
+        </div>
+      </section>
 
-    <!-- FREE CARD -->
-    <div class="card free">
-      <h3>🎁 FREE</h3>
-      <p><strong>Marketing Content Calendar — FREE (2025)</strong></p>
-      <ul>
-        <li>📅 38 essential dates (2025)</li>
-        <li>✅ Works with Google, Outlook & Apple</li>
-        <li>✅ Easy one-click import (.ics)</li>
-        <li>✅ Covers key holidays and events</li>
-        <li>⚡ Perfect for testing before upgrading</li>
-      </ul>
-      <a class="btn alt" href="https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics" target="_blank">
-        Download FREE
-      </a>
+      <aside class="card">
+        <h2>Get product updates</h2>
+        <p class="muted">Leave your email to get notified about Premium updates (extra niches, regions, and seasonal packs).</p>
+        <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+          <div class="form-row">
+            <input class="input" type="email" name="email" placeholder="Your email" required />
+            <button class="submit" type="submit">Notify me</button>
+          </div>
+          <input type="hidden" name="source" value="marketing-calendar-landing" />
+        </form>
+        <p class="muted" style="margin-top:10px;font-size:12px;">We’ll email occasionally. Unsubscribe anytime.</p>
+      </aside>
     </div>
 
-    <!-- PREMIUM CARD -->
-    <div class="card premium">
-      <h3>⭐ PREMIUM</h3>
-      <p><strong>Marketing Content Calendar — PREMIUM (2025–2026)</strong></p>
-      <ul>
-        <li>📅 150+ global marketing & awareness dates</li>
-        <li>🌍 2025 & 2026 coverage</li>
-        <li>✅ Works with Google, Outlook & Apple</li>
-        <li>🔁 Free updates included</li>
-        <li>⚡ Instant download after purchase</li>
-      </ul>
-      <a class="btn primary" href="https://gumroad.com/l/marketingcalendar" target="_blank">
-        Get PREMIUM — $9
-      </a>
-    </div>
+    <!-- PLANS -->
+    <section class="plans">
+      <h2>Choose your plan</h2>
+      <div class="plan-cards">
+        <!-- FREE CARD -->
+        <div class="card plan free">
+          <h3>🎁 FREE</h3>
+          <p><strong>Marketing Content Calendar — FREE (2025)</strong></p>
+          <ul>
+            <li>📅 38 essential dates (2025)</li>
+            <li>✅ Works with Google, Outlook & Apple</li>
+            <li>✅ Easy one-click import (.ics)</li>
+            <li>✅ Key holidays & e-commerce days</li>
+            <li>⚡ Perfect for testing before upgrading</li>
+          </ul>
+          <a class="btn alt" href="https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics" target="_blank">
+            Download FREE
+          </a>
+        </div>
 
-  </div>
-</section>
-
-<style>
-  .plans {
-    text-align: center;
-    padding: 3rem 1rem;
-  }
-  .plan-cards {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
-    justify-content: center;
-  }
-  .card {
-    background: #fff;
-    border-radius: 12px;
-    padding: 2rem;
-    width: 300px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    text-align: left;
-  }
-  .card h3 {
-    margin-top: 0;
-  }
-  .card ul {
-    padding-left: 1.2rem;
-  }
-  .card.free {
-    border-top: 4px solid #4cafef;
-  }
-  .card.premium {
-    border-top: 4px solid gold;
-  }
-  .btn {
-    display: inline-block;
-    margin-top: 1rem;
-    padding: 0.75rem 1.5rem;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  .btn.alt {
-    background: #eee;
-    color: #333;
-  }
-  .btn.primary {
-    background: #4cafef;
-    color: #fff;
-  }
-</style>
-
-
-
-  <main class="grid">
-    <!-- Left: What you get -->
-    <section class="card">
-      <h2>What’s inside</h2>
-      <p class="muted">Global awareness + marketing promo days, pre-formatted for your calendar.</p>
-      <ul>
-        <li>International Women’s Day, World Health Day, Human Rights Day</li>
-        <li>Black Friday, Cyber Monday, Amazon Prime Day, Singles’ Day</li>
-        <li>Mother’s & Father’s Day (international patterns)</li>
-        <li>Ramadan/Eid, Easter, Mid-Autumn, Back-to-School, Summer sales</li>
-        <li>Fun social days: Star Wars Day, World Emoji Day, Coffee Day</li>
-      </ul>
-      <div class="hr"></div>
-      <p class="muted">Auto-updates: when the ICS file changes here, your calendar refreshes too (Google/Outlook/Apple).</p>
-      <div>
-        <span class="pill">Google Calendar</span>
-        <span class="pill">Outlook</span>
-        <span class="pill">Apple Calendar</span>
-        <span class="pill">UTC</span>
+        <!-- PREMIUM CARD -->
+        <div class="card plan premium">
+          <h3>⭐ PREMIUM</h3>
+          <p><strong>Marketing Content Calendar — PREMIUM (2025–2026)</strong></p>
+          <ul>
+            <li>📅 150+ global marketing & awareness dates</li>
+            <li>🌍 2025 & 2026 coverage</li>
+            <li>✅ Works with Google, Outlook & Apple</li>
+            <li>🔁 Free updates (email delivery)</li>
+            <li>⚡ Instant download after purchase</li>
+          </ul>
+          <a class="btn primary" href="https://gumroad.com/l/marketingcalendar" target="_blank">
+            Get PREMIUM — $9
+          </a>
+        </div>
       </div>
     </section>
 
-    <!-- Right: email capture -->
-    <aside class="card">
-      <h2>Get product updates</h2>
-      <p class="muted">Leave your email to get notified about Premium features (filters by niche, localisations, e-commerce only, etc.).</p>
-      <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-        <div class="form-row">
-          <input class="input" type="email" name="email" placeholder="Your email" required />
-          <button class="submit" type="submit">Notify me</button>
-        </div>
-        <input type="hidden" name="source" value="marketing-calendar-landing" />
-        <!-- Optional redirect after submit:
-        <input type="hidden" name="_redirect" value="https://saulhubdev.github.io/marketing-calendar/success.html" />
-        -->
-      </form>
-      <p class="muted" style="margin-top:10px;font-size:12px;">By subscribing you agree to receive occasional emails about updates. Unsubscribe anytime.</p>
-    </aside>
-
-    <!-- Free vs Premium -->
-    <section class="card" style="grid-column: 1 / -1;">
+    <!-- COMPARISON TABLE -->
+    <section class="card compare">
       <h2>Free vs Premium</h2>
-      <p class="muted">Start free. Upgrade anytime for the full global set + e-commerce moments.</p>
-
-      <div class="pricing-wrap" style="display:grid; gap:16px; grid-template-columns: 1fr; margin-top:12px;">
-        <div class="plan" style="border:1px solid var(--border); border-radius:14px; padding:20px; background:#0f1627;">
-          <h3 style="margin:0 0 6px;">FREE</h3>
-          <p class="muted" style="margin:0 0 12px;">38 hand-picked dates (19 holidays + 19 promo windows).</p>
-          <ul class="list-compact">
-            <li>✅ Core holidays (New Year, Easter, Halloween, Christmas)</li>
-            <li>✅ Key promos (Back to School, Black Friday, Cyber Monday)</li>
-            <li>✅ Singles’ Day, Prime Day (estimated window)</li>
-            <li>✅ Works with Google / Outlook / Apple</li>
-            <li>❌ No niche filters / regions</li>
-            <li>❌ No extended awareness days</li>
-          </ul>
-          <div class="cta" style="justify-content:flex-start;">
-            <a class="btn alt" target="_blank"
-               href="https://saulhubdev.github.io/marketing-calendar/marketing_days_FREE.ics">🎁 Get FREE ICS</a>
-          </div>
-        </div>
-
-        <div class="plan" style="border:1px solid var(--border); border-radius:14px; padding:20px; background:#121a2b;">
-          <h3 style="margin:0 0 6px;">PREMIUM</h3>
-          <p class="muted" style="margin:0 0 12px;">150+ global awareness + promo days (2025–2026), auto-updating.</p>
-          <ul class="list-compact">
-            <li>✅ All FREE content</li>
-            <li>✅ Full awareness set (UN/WHO/UNESCO + social days)</li>
-            <li>✅ E-commerce seasons (Ramadan/Eid, CNY, Summer, BFCM, etc.)</li>
-            <li>✅ Auto-updates via .ics feed</li>
-            <li>🛠 Soon: niche filters (Tech/Health/Edu/Finance)</li>
-            <li>🗺 Soon: regional packs (EU/US/APAC)</li>
-          </ul>
-          <div class="cta" style="justify-content:flex-start; gap:10px;">
-            <!-- Premium Google one-click -->
-            <a class="btn primary" target="_blank"
-               href="https://calendar.google.com/calendar/u/0/r?cid=https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Get PREMIUM (Google)</a>
-            <!-- Premium direct ICS (Outlook/Apple) -->
-            <a class="btn alt" target="_blank"
-               href="https://saulhubdev.github.io/marketing-calendar/marketing_days_fixed.ics">⭐ Outlook / Apple</a>
-            <!-- (Optional) Replace with your Gumroad/LemonSqueezy checkout when ready:
-            <a class="btn" target="_blank" href="https://gumroad.com/l/your-product">Buy once — $9</a>
-            -->
-          </div>
-        </div>
-      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>Feature</th>
+            <th>FREE</th>
+            <th>PREMIUM</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Dates included</td>
+            <td>38 (2025)</td>
+            <td>150+ (2025–2026)</td>
+          </tr>
+          <tr>
+            <td>Google / Outlook / Apple</td>
+            <td class="yes">✅</td>
+            <td class="yes">✅</td>
+          </tr>
+          <tr>
+            <td>All-day formatting (UTC)</td>
+            <td class="yes">✅</td>
+            <td class="yes">✅</td>
+          </tr>
+          <tr>
+            <td>E-commerce seasons (BFCM, Prime Day, etc.)</td>
+            <td class="yes">✅ (core)</td>
+            <td class="yes">✅ (extended)</td>
+          </tr>
+          <tr>
+            <td>UN/WHO/UNESCO awareness days</td>
+            <td class="no">❌ (limited)</td>
+            <td class="yes">✅ (full)</td>
+          </tr>
+          <tr>
+            <td>Regional packs & niches</td>
+            <td class="no">❌</td>
+            <td>🛠 Coming soon</td>
+          </tr>
+          <tr>
+            <td>Updates</td>
+            <td>Manual (download Free again)</td>
+            <td>Email file updates included</td>
+          </tr>
+        </tbody>
+      </table>
     </section>
 
-    <!-- Roadmap -->
-    <section class="card" style="grid-column: 1 / -1;">
+    <!-- ROADMAP -->
+    <section class="card">
       <h2>Roadmap</h2>
-      <ul class="list-compact">
+      <ul>
         <li>✅ Free ICS: global awareness + promo days (2025–2026)</li>
         <li>🛠 Filters: choose niches (Tech, Health, Education, Finance)</li>
         <li>🗺 Local packs: region-specific additions (EU, US, APAC)</li>
-        <li>🛍 E-commerce only feed (sales windows & retail moments)</li>
-        <li>🔁 Auto refresh cadence & versioning</li>
+        <li>🛍 E-commerce only feed (retail seasons & promos)</li>
+        <li>🔁 Versioning & update cadence</li>
       </ul>
     </section>
   </main>
 
   <footer>
     <div>© <span id="y"></span> Marketing Content Calendar • Built by <a href="https://github.com/saulhubdev" target="_blank">saulhubdev</a></div>
-    <div class="muted" style="margin-top:6px;">Have feedback? Open an issue on GitHub.</div>
+    <div class="muted" style="margin-top:6px;">Questions or feedback? Open an issue on GitHub.</div>
   </footer>
 
   <script>document.getElementById('y').textContent = new Date().getFullYear()</script>
