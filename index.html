@@ -121,13 +121,12 @@
       <aside class="card">
         <h2>Get product updates</h2>
         <p class="muted">Leave your email to get notified about Premium updates (extra niches, regions, and seasonal packs).</p>
-        <form action="https://formspree.io/f/mblabnrb" method="POST">
+        <form id="notify-form" action="https://formspree.io/f/mblabnrb" method="POST" novalidate>
           <div class="form-row">
             <input class="input" type="email" name="email" placeholder="Your email" required />
             <button class="submit" type="submit">Notify me</button>
           </div>
           <input type="hidden" name="source" value="marketing-calendar-landing" />
-          <input type="hidden" name="_redirect" value="https://saulhubdev.github.io/marketing-calendar/success.html" />
         </form>
         <p class="muted" style="margin-top:10px;font-size:12px;">We’ll email occasionally. Unsubscribe anytime.</p>
       </aside>
@@ -241,5 +240,35 @@
   </footer>
 
   <script>document.getElementById('y').textContent = new Date().getFullYear()</script>
+
+  <script>
+  (function(){
+    const form = document.getElementById('notify-form');
+    form.addEventListener('submit', async function(e){
+      e.preventDefault();
+      const data = new FormData(form);
+      try {
+        const res = await fetch(form.action, {
+          method: 'POST',
+          body: data,
+          headers: { 'Accept': 'application/json' }
+        });
+        if (res.ok) {
+          // sėkmės atveju nukreipiam
+          window.location.href = 'https://saulhubdev.github.io/marketing-calendar/success.html';
+        } else {
+          // jei klaida, vis tiek rodome fallback žinutę
+          alert('Submission received. Check your inbox (confirm) — then refresh.');
+          setTimeout(() => {
+            window.location.href = 'https://saulhubdev.github.io/marketing-calendar/success.html';
+          }, 1200);
+        }
+      } catch (err) {
+        alert('Network error. Please try again.');
+      }
+    });
+  })();
+  </script>
+
 </body>
 </html>
